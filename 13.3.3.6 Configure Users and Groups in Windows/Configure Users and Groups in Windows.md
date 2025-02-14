@@ -1,9 +1,9 @@
 ## Part 1: Create New Users
 ### Step 1: Access Local Users and Groups Manager.
 * #### Question: What are the names of the accounts listed?
-* ##### Answer here:
+* ##### Answer here: Kristjan, krist, halli, User1 and Guest
 * #### Question: Which group does your account belong to?
-* ##### Answer here:
+* ##### Answer here: Administrators and Users
 ### Step 2: Create new users.
 * #### Question: What is Student01 required to do when logging in the first time?
 * ##### Answer here:
